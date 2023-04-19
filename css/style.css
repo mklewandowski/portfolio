@@ -125,6 +125,10 @@ textarea {
       font-size: 1.8rem; } }
   .heading-sec__sub--lt {
     color: #eee; }
+  .heading-sec__sub-img {
+    margin: 0 3px; }
+  .heading-sec__sub:last-child {
+    margin-top: 2rem; }
 
 .heading-sm {
   font-size: 2.2rem;

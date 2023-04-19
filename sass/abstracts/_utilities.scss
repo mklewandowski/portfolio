@@ -73,6 +73,14 @@
     &--lt {
       color: #eee;
     }
+
+    &-img {
+      margin: 0 3px;
+    }
+
+    &:last-child {
+      margin-top: 2rem;
+    }
   }
 }
 
