@@ -15,7 +15,7 @@ Before we can deploy to a GitHub page, we first do the following setup (from [ht
 - add `deploy` and `predeploy` properties to the `scripts` property of `package.json`
 
 To deploy the current version:
-- copy `assets`, `css`, `favicon.ico`, `index.js`,  and `index.html` into `build` folder
+- copy `assets`, `css`, `favicon.ico`, `index.js`, and `index.html` into `build` folder
 - run `npm run deploy`
 
 ## Development Tools
